@@ -4,7 +4,7 @@ In this project, we are trying to monitor the Temperature and Humidity of a clos
 
 output
 
-![Uploading Screenshot 2024-12-23 225513.png…]()
+![Screenshot 2024-12-23 225513](https://github.com/user-attachments/assets/e29507f8-523a-4e39-95d4-481bfb74a964)
 
 
 For this project, you need to download & install two libraries LiquidCrystal & DHT library. You can download those libraries from GitHub or directly from Arduino IDE 
