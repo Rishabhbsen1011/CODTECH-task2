@@ -1,6 +1,11 @@
 Project description
 
-In this project, we are trying to monitor the Temperature and Humidity of a closed area like a Meeting/Conference room, Cabins, cubicles. So we have connected the temperature measurement sensor to the LCD screen with the help of an Arduino device. 
+In this project, we are trying to monitor the Temperature and Humidity of a closed area like a Meeting/Conference room, Cabins, cubicles. So we have connected the temperature measurement sensor to the LCD screen with the help of an Arduino device.
+
+output
+
+![Uploading Screenshot 2024-12-23 225513.png…]()
+
 
 For this project, you need to download & install two libraries LiquidCrystal & DHT library. You can download those libraries from GitHub or directly from Arduino IDE 
 
